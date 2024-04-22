@@ -28,7 +28,7 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
-
+![alt text](messageQueues.png)
 
 
 # RESULT:
